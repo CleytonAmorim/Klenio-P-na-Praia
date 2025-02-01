@@ -50,7 +50,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="/mnt/data/G.png" alt="GC Soluções Logo" class="logo">
+        <img src="G.png" alt="GC Soluções Logo" class="logo">
         <h1>Orçamento de Serviços – GC Soluções</h1>
     </div>
     
